@@ -1,0 +1,14 @@
+vss gnd
+rw gnd
+VDD 5v
+Vee 10k protentiometer(left leg to 5v right gnd)
+rs rb1
+E rb0
+D4 RB2
+D5 rb3
+D6 rb4
+D7 RB7
+Buzzer left leg RC0 right GND
+RC2 with 330k and then led and then gnd 
+RC6 RXD
+RC7 TXD
